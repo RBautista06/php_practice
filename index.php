@@ -4,7 +4,7 @@ require __DIR__.'/vendor/autoload.php'; //so it will automatically load the comp
 use Cocur\Slugify\Slugify; // this is the same as import
 
 //  $fullname = 'Railley';
-//  echo "My name is $fullname"; // make sure to use always "" insted of ''
+//  echo "sMy name is $fullname"; // make sure to use always "" insted of ''
 // -> this symbol is same as . in accessing object keys
 
   $slugify = new Slugify();
